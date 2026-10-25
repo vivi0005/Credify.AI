@@ -1,0 +1,6 @@
+{
+  "name": "Credify AI - AI Loan Eligibility Checker",
+  "description": "Intelligent loan eligibility underwriting system with 2D decision boundary visualization, Fair Lending AI governance, and comprehensive audit history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
